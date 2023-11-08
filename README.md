@@ -67,4 +67,11 @@ public class FoodController {
 
 Nessa situação, estamos adicionando uma lista que vamos injetar todos os itens dentro de foodList.
 
-Enviando requisição atraves do Insommi
+Enviando requisição atraves do Insommia
+
+
+
+Records são uma nova forma de declarar classes no Java. Eles são imutáveis por padrão, o que significa que não podemos alterar seus valores após a criação do objeto
+
+Nessa parte do Codigo, é importante ressaltar a criação do record, pois vamos criar dados estáticos, sem criação de metodos para ter manuseios no codigo
+>>Dentro do record, deve se criar um constructor
